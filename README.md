@@ -2,7 +2,7 @@ Titanic - Exploratory Data Analysis (EDA)
 * This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover patterns related to passenger survival. 
 * EDA helps us understand the dataset through **statistics, visualizations, and feature engineering** before applying machine learning models.
 
-📊 Dataset Overview
+Dataset Overview
 The dataset contains information about **passengers aboard the Titanic**, including their age, gender, passenger class, fare, and survival status.
 
 **Key Features:**
@@ -15,7 +15,7 @@ The dataset contains information about **passengers aboard the Titanic**, includ
 - `Fare` → Price paid for the ticket
 - `Embarked` → Port of Embarkation (C, Q, S)
 
-## 🔍 Steps in Exploratory Data Analysis
+## Steps in Exploratory Data Analysis
 1. **Data Loading & Overview**  
    - Understanding dataset structure (`.info()`, `.describe()`)
    - Checking missing values
